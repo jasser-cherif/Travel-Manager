@@ -15,7 +15,6 @@ int main() {
       int nbj;
       char desc[1000];
     };
-    
     int n,i;
     struct voyage T[n];
     void supprimer(struct voyage v,int n,struct voyage T[n] );
